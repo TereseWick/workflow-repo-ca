@@ -1,1 +1,10 @@
 node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Ignore environment variables file
+.env

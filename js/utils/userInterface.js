@@ -5,3 +5,4 @@ export const isActivePath = (href, currentPath) => {
     return currentPath.includes(href);
   }
 };
+
